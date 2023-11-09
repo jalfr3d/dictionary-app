@@ -54,4 +54,6 @@ The round fruit of a tree of the rose family, which typically has thin red or gr
 
 Explore the world of words with the Dictionary APP, a handy tool for finding word definitions quickly and easily.
 
-Happy word hunting!
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
